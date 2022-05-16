@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sade5000
 - 👀 I’m interested in Coding & hacking 
 - 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on create API SCRIPT
+- 💞️ I’m looking to collaborate on create GAMES
 - 📫 How to reach me sade50000gmail.com
 
 <!---
