@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <SDL.h>
+#include <SDL2/begin_code.h>
+#include <SDL2/close_code.h>
+#include <array>
+#include <variant>
+#include <vector>
+#include <SDL_ttf.h>
+#include <SDL_image.h>
+#include <cstdlib>

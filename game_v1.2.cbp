@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="game_v1.2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/game_v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/game_v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="`sdl2-config --cflags`" />
+		</Compiler>
+		<Linker>
+			<Add library="GLEW" />
+			<Add library="GL" />
+			<Add library="SDL2" />
+			<Add library="SDL2_ttf" />
+			<Add library="SDL2_image" />
+		</Linker>
+		<Unit filename="TTF/Caladea-Bold.ttf" />
+		<Unit filename="TTF/Caladea-BoldItalic.ttf" />
+		<Unit filename="TTF/Caladea-Italic.ttf" />
+		<Unit filename="TTF/Caladea-Regular.ttf" />
+		<Unit filename="TTF/Carlito-Bold.ttf" />
+		<Unit filename="TTF/Carlito-BoldItalic.ttf" />
+		<Unit filename="TTF/Carlito-Italic.ttf" />
+		<Unit filename="TTF/Carlito-Regular.ttf" />
+		<Unit filename="collision_main_screen.cpp" />
+		<Unit filename="collision_main_screen.h" />
+		<Unit filename="game_lib.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu_font.cpp" />
+		<Unit filename="menu_font.h" />
+		<Unit filename="menu_methods.cpp" />
+		<Unit filename="menu_methods.h" />
+		<Unit filename="menu_screen.cpp" />
+		<Unit filename="menu_screen.h" />
+		<Unit filename="objects.cpp" />
+		<Unit filename="objects.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
