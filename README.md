@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sade5000
-- 👀 I’m interested in Coding & Hacking (ethical) 
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Ethical Hacking by myself
 - 💞️ I’m looking to collaborate on create GAMES
 - 📫 How to reach me: sade50000gmail.com & phone UK +44 7747515536 
