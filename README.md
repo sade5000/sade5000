@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on create GAMES
-- 📫 How to reach me: sade50000gmail.com & phone UK +44 7747515536 
+- 📫 How to reach me: sade50000@gmail.com & phone UK +44 7747515536 
 
 
 <!---
